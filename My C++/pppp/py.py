@@ -1,0 +1,13 @@
+#hisname="John"
+#his_name="Bro"
+#_hisname="Son"
+#print(hisname)
+#print(his_name)
+#print(_hisname)
+#name=age=year=990
+#print(name)
+#print(age)
+#print(year)
+#firstNmae="John"
+#lastName="son"
+#print(firstNmae,lastName)

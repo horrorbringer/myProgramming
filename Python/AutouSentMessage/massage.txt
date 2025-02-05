@@ -1,0 +1,11 @@
+this is spam massage!
+
+ # time.sleep(1)
+    # if a<10 :
+    # text = "Hello"
+    # elif a<20: 
+    #     text = "What are you doing"
+    # elif a<30:
+    #     text = "I love you"
+    # else :
+    #     text = "Let's Learn Python!"
